@@ -11,4 +11,4 @@ For centuries, palpation have been used by physicians as a main diagnostic tool 
 ![](ppt/sonoElasto.png)
 
 # How to cite
-* F. Afdideh, "3D Tissue Deformation using COMSOL Multiphysics Software to Obtain RF Ultrasound Signals for US Elastography", to be published.
+* **F. Afdideh**, "3D Tissue Deformation using COMSOL Multiphysics Software to Obtain RF Ultrasound Signals for US Elastography", to be published.
